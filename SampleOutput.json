@@ -1,0 +1,191 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Maggie Haberman, Katie Benner, Glenn Thrush",
+      "title": "The Final Days of the Trump White House: Chaos and Scattered Papers - The New York Times",
+      "description": "Government documents that President Donald J. Trump had accumulated were with him in roughly two dozen boxes in the White House residence. They were to go to the National Archives, but at least some ended up in Florida.",
+      "url": "https://www.nytimes.com/2022/08/20/us/politics/trump-fbi-search.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/20/us/politics/20dc-finaldaystrump1/20dc-finaldaystrump1-facebookJumbo.jpg",
+      "publishedAt": "2022-08-20T17:35:18Z",
+      "content": "They reached out to, among others, Scott Gast, who had been a lawyer in the White House Counsels Office under Mr. Trump, and Mr. Philbin. The two men, along with Mr. Meadows and four other Trump offi… [+2132 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ann M. Simmons in Moscow and Isabel Coles in Dnipro, Ukraine",
+      "title": "Drone Hits Headquarters of Russia’s Black Sea Fleet in Crimea - The Wall Street Journal",
+      "description": "The incident highlights Russia’s vulnerability in an area that has served as a stronghold for its occupation of Ukraine’s south coast.",
+      "url": "https://www.wsj.com/articles/drone-hits-headquarters-of-russias-black-sea-fleet-in-crimea-11660991264",
+      "urlToImage": "https://images.wsj.net/im-607850/social",
+      "publishedAt": "2022-08-20T17:23:00Z",
+      "content": "A drone hit the headquarters of Russias Black Sea Fleet in Crimea on Saturday, reaching the heart of a heavily fortified naval base that has long allowed Moscow to project power in the region.\r\nThe i… [+324 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "At least 12 killed as Somalia hotel siege enters second day - Reuters",
+      "description": "At least 12 people were killed when al Qaeda-linked militants attacked a hotel in Somalia's capital Mogadishu, seizing hostages who authorities were still battling to free 24 hours later, an intelligence officer said on Saturday.",
+      "url": "https://www.reuters.com/world/africa/least-12-killed-somalia-hotel-siege-intelligence-officer-says-2022-08-20/",
+      "urlToImage": "https://www.reuters.com/resizer/ry3L2vqE05Gs5FyuMh9rb0MmHZg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EERY5R2XC5LN7HGOIIY5Y56SNE.jpg",
+      "publishedAt": "2022-08-20T17:12:00Z",
+      "content": "MOGADISHU, Aug 20 (Reuters) - At least 12 people were killed when al Qaeda-linked militants attacked a hotel in Somalia's capital Mogadishu, seizing hostages who authorities were still battling to fr… [+2462 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Isabel Vincent, Steven Vago",
+      "title": "Preparations underway for Ben Affleck, Jennifer Lopez's Saturday night nuptials - Page Six",
+      "description": "Security surrounded Ben Affleck’s 87-acre estate on Hampton Island, Georgia Saturday morning.",
+      "url": "https://pagesix.com/2022/08/20/prep-underway-for-ben-affleck-jennifer-lopezs-saturday-night-nuptials/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/affleck-lopez-wedding-comp.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-08-20T17:01:00Z",
+      "content": "Security was tight at the entrance to Hampton Island in Georgia Saturday, as workers began arriving early to get ready for Jennifer Lopez and Ben Affleck to walk down the aisle at his plantation-styl… [+2824 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Samira Asma-Sadeque",
+      "title": "US supreme court backs Black voters challenging Georgia election rules - The Guardian US",
+      "description": "Ruling comes as plaintiffs say current Georgia public service commission election system discriminates against Black voters",
+      "url": "https://amp.theguardian.com/us-news/2022/aug/20/supreme-court-black-voters-georgia-election-rules",
+      "urlToImage": null,
+      "publishedAt": "2022-08-20T16:54:00Z",
+      "content": "GeorgiaRuling comes as plaintiffs say current Georgia public service commission election system discriminates against Black voters\r\nSat 20 Aug 2022 12.53 EDT\r\nBlack voters challenging Georgias method… [+3257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "DAZN News US" },
+      "author": "Matt Astbury",
+      "title": "What time is Oleksandr Usyk vs. Anthony Joshua 2 fight tonight? List of global main event ringwalk times plus channel and stream info - dazn.com",
+      "description": "Anthony Joshua faces Oleksandr Usyk for a second time tonight.",
+      "url": "https://www.dazn.com/en-US/news/boxing/oleksandr-usyk-vs-anthony-joshua-2-date-fight-time-tv-channel-and-live-stream/s8ag6gjrjs5f1ceqhm395cm0i",
+      "urlToImage": "https://images.daznservices.com/di/library/DAZN_News/bb/3e/anthony-joshua-vs-olexandr-usyk_p1palvr4nh8w1tequ1znxc9cv.jpg?t=-1233944383&quality=100&h=300",
+      "publishedAt": "2022-08-20T16:41:18Z",
+      "content": "Can Anthony Joshua become the world heavyweight champion for a third time tonight?\r\nStanding in his way is Oleksandr Usyk and the pair know each other well after sharing the ring last September at a … [+2011 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "GOP’s Senate outlook grows dimmer amid ‘candidate quality’ concerns - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzM2MDg2MjEtZ29wcy1zZW5hdGUtb3V0bG9vay1ncm93cy1kaW1tZXItYW1pZC1jYW5kaWRhdGUtcXVhbGl0eS1jb25jZXJucy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-08-20T15:42:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Common Medication Found Effective at Reducing Odds of Serious Outcomes for COVID-19 Patients - SciTechDaily",
+      "description": "Trial compared the effect of ivermectin, fluvoxamine, and metformin in randomized double-blinded placebo- controlled trial. Scientists have found that metformin, a commonly prescribed diabetes medication, lowers the odds of emergency department visits, hospit…",
+      "url": "https://scitechdaily.com/common-medication-found-effective-at-reducing-odds-of-serious-outcomes-for-covid-19-patients/",
+      "urlToImage": "https://scitechdaily.com/images/Female-Doctor-Giving-Medicine.jpg",
+      "publishedAt": "2022-08-20T15:09:18Z",
+      "content": "ByUniversity of Minnesota Medical SchoolAugust 20, 2022\r\nResearchers have found that metformin, a commonly prescribed diabetes medication, lowers the odds of emergency department visits, hospitalizat… [+5738 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XXLMAG.COM" },
+      "author": "trentfitzgerald",
+      "title": "Video Appears to Show Quando Rondo With Police After Allegedly Being Target in Drive-By Shooting - XXLMAG.COM",
+      "description": "Details here.",
+      "url": "https://www.xxlmag.com/quando-rondo-police-target-drive-by-shooting/",
+      "urlToImage": "https://townsquare.media/site/812/files/2022/08/attachment-Quando-Rondo-yelling-police-shooting-2022.jpg?w=1200",
+      "publishedAt": "2022-08-20T14:47:03Z",
+      "content": "It appears that Quando Rondo was allegedly a target in a drive-by shooting that happened in Los Angeles, Calif. last night.\r\nVideos from Fox 11 Los Angeles and ABC7 were posted Friday evening (Aug. 1… [+1812 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Kostya Manenkov and Karl Ritter, USA TODAY",
+      "title": "Finland PM Sanna Marin faces criticism over 'boisterous' party video - USA TODAY",
+      "description": "Finland prime minister Sanna Marin says she has taken a drug test 'for her own legal protection' after a video was leaked of her dancing at a party.",
+      "url": "https://www.usatoday.com/story/news/world/2022/08/20/finland-prime-minister-takes-drug-test-party-video/7854164001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/20/USAT/d0c31c4f-c8cc-4136-a424-c1367467177b-AP22231509227496.jpg?auto=webp&crop=4683,2634,x1,y62&format=pjpg&width=1200",
+      "publishedAt": "2022-08-20T14:38:10Z",
+      "content": "HELSINKI – In a leaked video, Finland’s Prime Minister Sanna Marin is seen dancing and singing with friends at a private party. The 36-year-old leader poses for the camera. She sits on her knees, han… [+5318 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Angelina Jolie Fight W/ FBI Over Brad Pitt Drama Explained By Expert | Legally Us - Us Weekly",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFKDkYzDHNWc",
+      "urlToImage": null,
+      "publishedAt": "2022-08-20T14:30:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Christine Fernando, USA TODAY",
+      "title": "Missouri house explosion: Mom, daughter died in Wyatt - USA TODAY",
+      "description": "The gas explosion happened Monday in Wyatt, a small southern Missouri city. Investigators pointed to propane gas as the likely cause.",
+      "url": "https://www.usatoday.com/story/news/nation/2022/08/20/missouri-house-explosion-wyatt/7854064001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/5ff96629-3d98-4f7f-afd3-3913e8c9ee10-c5ed265c-f6ac-4cda-90fd-141fc52ef13a_thumbnail.png?auto=webp&crop=849,478,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2022-08-20T14:17:58Z",
+      "content": "The death toll in a Missouri house explosion this week has risen to three people after a woman and her 3-year-old daughter died.\r\nMyranda Gale Golden, 22, died Friday from the injuries she sustained … [+2119 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Kate Brumback",
+      "title": "Graham effort to delay testimony in election probe rejected - The Associated Press - en Español",
+      "description": "ATLANTA (AP) — A federal judge on Friday said Sen. Lindsey Graham's appearance before a special grand jury  investigating whether then-President Donald Trump  and others illegally tried to influence the 2020 election in Georgia   should not be delayed to allo…",
+      "url": "https://apnews.com/article/2022-midterm-elections-donald-trump-georgia-presidential-atlanta-0a24f764318492bcf9388c1541c44ec2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a32e303f3e4641afacade9e366457834/3000.jpeg",
+      "publishedAt": "2022-08-20T14:10:02Z",
+      "content": "ATLANTA (AP) A federal judge on Friday said Sen. Lindsey Grahams appearance before a special grand jury investigating whether then-President Donald Trump and others illegally tried to influence the 2… [+5274 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Kyrie Irving trade rumors: Nets want win-now player in potential deal, not just future assets, per report - CBS Sports",
+      "description": "Brooklyn is reportedly unwilling to make a trade for Irving that only brings back draft picks",
+      "url": "https://www.cbssports.com/nba/news/kyrie-irving-trade-rumors-nets-want-win-now-player-in-potential-deal-not-just-future-assets-per-report/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/26/2c6bf556-43cb-45e0-8f3e-a840990a7474/thumbnail/1200x675/750a4df5084af7856aa99cd5aff65f28/kyrie-irving-getty.png",
+      "publishedAt": "2022-08-20T13:57:00Z",
+      "content": "With the NBA schedule released earlier this week and all of us trying to figure out how the season will play out, one stark question looms ominously and frustratingly over our predictions: What, pray… [+2438 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "John Bonifield, CNN",
+      "title": "Wendy's restaurants associated with E. coli outbreak that sickened 37 people in four states, CDC says - CNN",
+      "description": "Wendy's restaurants have been associated with an E. coli outbreak reported in four states, with 37 people infected and 10 hospitalized, the US Centers for Disease Control and Prevention said Friday.",
+      "url": "https://www.cnn.com/2022/08/20/health/wendys-e-coli-outbreak/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220820085046-wendys-restaurant-drive-thru-file-super-tease.jpg",
+      "publishedAt": "2022-08-20T13:23:00Z",
+      "content": "(CNN)Wendy's restaurants have been associated with an E. coli outbreak reported in four states, with 37 people infected and 10 hospitalized, the US Centers for Disease Control and Prevention said Fri… [+1258 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Allison Johnson",
+      "title": "The Samsung Galaxy Z Flip 4's camera is a lot of fun to shoot with - The Verge",
+      "description": "Its camera hardware is nothing special, but the Z Flip 4’s ability to fold lends it to a lot of shooting scenarios that traditional slab-style phones just can’t touch.",
+      "url": "https://www.theverge.com/23311786/samsung-galaxy-z-flip-4-camera-flex-mode-selfie-quick-shot",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HuU6owOXOTKMpL3bIwOS9wCkWjc=/0x179:2040x1247/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23954856/226134_SAMSUNG_GALAXY_Z_FLIP_PHO_ajohnson_0006.jpg",
+      "publishedAt": "2022-08-20T13:00:00Z",
+      "content": "BRB, jumpstarting my home barista influencer career\r\nPlant portraits: an important Z Flip 4 use case.\r\nIve had the privilege of taking photos with some incredible smartphones this year. Ive been wowe… [+3873 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis - The Guardian",
+      "description": "Ukraine hints it was behind a series of strikes in occupied Crimea; the situation at Europe’s largest nuclear power plant is perilous; a Russian soldier exposes rot at core of invasion",
+      "url": "https://amp.theguardian.com/world/2022/aug/20/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+      "urlToImage": "https://i.guim.co.uk/img/media/47eddb0618f9790dc836624743892ba8038a84ae/0_169_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac28a15da77650bf4f78814253266ca0",
+      "publishedAt": "2022-08-20T12:35:00Z",
+      "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis, visual guides and opinion.\r\nI dont see justice in this war: Russian soldier exposes rot … [+9101 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jessica Dickler",
+      "title": "Despite recession fears and fueled by 'revenge spending,' Americans spend $314 a month on impulse purchases - CNBC",
+      "description": "A surge in ecommerce and buy now, pay later has led to more spontaneous shopping at a time when budgets are particularly strained.",
+      "url": "https://www.cnbc.com/2022/08/20/shoppers-spend-over-300-a-month-on-impulse-purchases-despite-recession-fears.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107049216-gettyimages-1387510765-12971of1.jpeg?v=1650484906&w=1920&h=1080",
+      "publishedAt": "2022-08-20T12:00:01Z",
+      "content": "Impulse buys can quickly erode even the best financial plans.\r\nAnd yet, between sponsored posts on social media and \"revenge spending,\" they are nearly impossible to avoid.\r\nAs the cost of living sur… [+3816 chars]"
+    },
+   
+    
+  ]
+}
