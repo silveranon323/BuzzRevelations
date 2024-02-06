@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BuzzRevelations/static/css/main.073c9b0a.css",
+    "main.js": "/BuzzRevelations/static/js/main.d3d08271.js",
+    "static/js/787.4c026eef.chunk.js": "/BuzzRevelations/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/BuzzRevelations/static/media/loading.be4297eb80fdb49f9439.gif",
+    "index.html": "/BuzzRevelations/index.html",
+    "main.073c9b0a.css.map": "/BuzzRevelations/static/css/main.073c9b0a.css.map",
+    "main.d3d08271.js.map": "/BuzzRevelations/static/js/main.d3d08271.js.map",
+    "787.4c026eef.chunk.js.map": "/BuzzRevelations/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d3d08271.js"
+  ]
+}
